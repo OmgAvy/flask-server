@@ -7,3 +7,6 @@ Jinja2
 MarkupSafe
 Werkzeug
 zipp
+Flask-Cors
+numpy
+scikit-learn==1.2.0
